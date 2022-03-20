@@ -18,7 +18,7 @@
     margin-top: 50px;
 }
 .imgfotoclub1{
-    width: 700px;
+    width: 600px;
 }
 .imgclub{
     display: flex;
@@ -37,4 +37,8 @@
     justify-content: space-between;
     background-color: #538EC1;
     margin-top: 50px;
+}
+.imagenclub:hover{
+    transform: scale(2);
+    transition: all 1s;
 }

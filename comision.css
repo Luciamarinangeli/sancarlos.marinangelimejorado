@@ -41,3 +41,7 @@
     height: 370px;
     
 }
+.profesor:hover{
+    transform: scale(2);
+    transition: all 1s;
+}
