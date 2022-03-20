@@ -44,10 +44,7 @@
     margin-top: 50px;
     width: 100%;
 }
-.profesor:hover{
-    transform: scale(2);
-    transition: all 1s;
-}
+
 .volver{
     color: #538EC1;
     width: 100px;
