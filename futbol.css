@@ -1,6 +1,8 @@
 *{
     margin: 0%;
     padding: 0%;
+    font-family: 'Bebas Neue', cursive;
+
 }
 .imglogo{
     width: 114px;
@@ -46,4 +48,12 @@
 .profesor:hover{
     transform: scale(2);
     transition: all 1s;
+}
+.volver{
+    color: #538EC1;
+    width: 100px;
+    height: 30px;
+    margin-left: 50px;
+    
+    
 }
