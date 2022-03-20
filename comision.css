@@ -1,0 +1,43 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    font-family: 'Bebas Neue', cursive;
+}
+.imglogo{
+    width: 114px;
+}
+.nav{
+    background-color: #538EC1;
+    
+}
+.volver{
+    color: #538EC1;
+    width: 100px;
+    height: 30px;
+    margin-left: 50px;
+    
+    
+}
+.footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-between;
+    background-color: #538EC1;
+    margin-top: 50px;
+    width: 100%;
+}
+.comision{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 190px;
+    justify-content: center;
+    
+
+   
+}
+.imgcomision{
+    width: 350px;
+    height: 370px;
+    
+}

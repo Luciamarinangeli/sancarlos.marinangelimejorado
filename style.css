@@ -1,0 +1,40 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    font-family: 'Bebas Neue', cursive;
+}
+.imglogo{
+    width: 114px;
+}
+.nav{
+    background-color: #538EC1;
+    
+}
+.historiaclub{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+.imgfotoclub1{
+    width: 700px;
+}
+.imgclub{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+.tamañoimgclub{
+    width: 300px;
+}
+.footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-between;
+    background-color: #538EC1;
+    margin-top: 50px;
+}
