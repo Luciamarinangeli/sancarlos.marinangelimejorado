@@ -1,0 +1,13 @@
+@import "../base/listas";
+
+.nav{
+    background-color: nth($colores, 1);
+
+}
+.imglogo{
+    width: nth($tamañoimg, 1);
+
+}
+.imgmedianas{
+    width: nth($tamañoimg, 4);
+}
