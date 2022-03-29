@@ -1,0 +1,43 @@
+.texto {
+  text-align: center;
+}
+
+.texto {
+  text-align: center;
+}
+
+.nav {
+  background-color: #538EC1;
+}
+
+.imglogo {
+  width: 100px;
+}
+
+.imgmedianas {
+  width: 400px;
+}
+
+.texto {
+  text-align: center;
+}
+
+.color {
+  background-color: #538EC1;
+}
+
+.footer_index {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer_index {
+  background-color: antiquewhite;
+}
+
+.filafooter {
+  background-color: rebeccapurple;
+}
+
+/*# sourceMappingURL=style.css.map */

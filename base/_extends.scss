@@ -1,0 +1,25 @@
+%disposicion{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+}
+.centrar{
+    @extend %disposicion;
+    margin-top: 30px;
+    justify-content: space-around;
+}
+.indeximg{
+    @extend %disposicion;
+    margin-top: 30px;
+    justify-content: space-between;
+}
+.carrusel{
+    @extend %disposicion;
+    width: 400px;
+    margin-top: 50px;
+    flex-direction: row;
+    justify-content: space-around;
+
+    
+}
+
